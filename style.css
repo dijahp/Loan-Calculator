@@ -1,0 +1,14 @@
+
+body {
+    background-image: url('IMG/audi.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    padding-top: 6%;;
+}
+
+.display-5 {
+    font-family: 'Quattrocento', serif;
+}
